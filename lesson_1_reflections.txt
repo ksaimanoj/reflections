@@ -1,0 +1,12 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By using diff we see only the changes that have been made from one file to another. If the original file was working and the new one is not it must definitely because of something that got edited/added/removed. It helps to identify bugs.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+By viewing the entire history we can see the effect of the changes introduced and the ones which were really effective. It helps to learn a lot from the experiences of others.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having different versions automatically saved, like Google Docs does?
+
+Manually choosing when to save helps to save files that are executable/runnable/compilable and present a logical step to step change progress.
