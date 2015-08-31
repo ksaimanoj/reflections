@@ -8,3 +8,7 @@ Working directory is the folder or version-control on which we are working on. R
 3. How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area can be used to add only the file or files to which a logical change has been made and then by commiting the repository we can have the commit of all the changes pertaining to a logical change in one commit.
+
+4. What are some situations when branches would be helpful in keeping you history organized? How would branches help?
+
+When ever we want to make experimental changes to our file we would want to branch out and move to that branch by checkout. This would enable us to make changes independent of the master branch. If it all works out well we can merge later.
