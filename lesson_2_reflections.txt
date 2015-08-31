@@ -1,0 +1,2 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+On initializing a repository, a .git folder is added. It means that git has started tracking the folder for changes. We need to do it because we cannot use version control without tracking the changes in the folder.
