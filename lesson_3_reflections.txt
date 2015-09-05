@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all the work local?
+
+Remote repostiroy can be used to update commits (and the files) to the GitHub website.
+I would want to use it whenever I am upadating anything to GitHub. Why would I want to upload anything to GitHub?
+Well it can allow others to contribute and criticize my work (as if the criticism is not enough already).
+Morever I will have an online backup of all my work. The downside is it will be public (for some it may not be a downside).
