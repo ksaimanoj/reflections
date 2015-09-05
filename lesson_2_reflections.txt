@@ -20,3 +20,7 @@ Git log can be non-linear. It means that we need not have a string of commits. T
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 After merging two branches together we get a new main branch which has the features of both the merged files. It can be used to keep the bugs out before merging. The diagram representation helps to show the parents of each commit and the reachable and non-reachable commits.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging requires complicated algorithms and is therefore not practical. Doing the merging manually helps to give complete control over the code, what portions must be included and what must be discarded. However when the changes are large it becomes tiresome. 
