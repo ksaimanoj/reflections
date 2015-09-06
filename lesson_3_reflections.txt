@@ -1,7 +1,21 @@
-When would you want to use a remote repository rather than keeping all the work local?
+1. When would you want to use a remote repository rather than keeping all the work local?
 
 Remote repostiroy can be used to update commits (and the files) to the GitHub website.I would want to use it whenever I am upadating anything to GitHub. Why would I want to upload anything to GitHub?Well it can allow others to contribute and criticize my work (as if the criticism is not enough already).Morever I will have an online backup of all my work. The downside is it will be public (for some it may not be a downside).
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 For starters I may not always have a working internet connection (Oh! I stay in India). I think it would put a lot of effort and work from the GitHub to do it everytime I make a commit on my repositories. I do not alternate between my local work and work on GitHub very often.
+
+3. Describe the differences between forks, clones, and branches. When would you one instead of another?
+
+Branches are mailnly used when I want to add a new feature. This is used when using a new feature we would want bug free code and the we can merge the branches when we have a working version. 
+Forks are used instead of cloning in GitHub. It gives credit to the actual contributor or the one who started the project.
+Cloning is used to copy repositories between GitHub and my computer. It is also used to copy entire repositories within local computers.
+
+4. What is the benefit of having a copy of the last known state of the remote locally stored?
+
+The main benefit would be to identify the changes that have been made locally and online. This would help to solve conflicts, which would otherwise be impossible. It also helps to keep the local changes once the online ones are 'fetched'.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+To collaborate without Git or GitHub we would first make all people have working versions of their features and then sit together and copy-paste the code to one central project all the while solving conflicts. An alternate method would be that all are editing the same file at once which is ridiculous. Git and GitHub would always be easier.
